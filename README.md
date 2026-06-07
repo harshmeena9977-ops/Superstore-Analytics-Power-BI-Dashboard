@@ -27,9 +27,6 @@ Covers data cleaning, modeling, DAX measures, and interactive visuals with a col
 ![Dashboard Overview]("C:\Superstore Analytics Dashboard\outputsdashboard_overview.png")    
 
 ## 🚀 How to Use
-- Download `Superstore.pbix`  
+- Download `"Superstore Analytics Dashboard.pbix"
 - Open in Power BI Desktop  
-- Connect dataset (Superstore sample data)  
-
-## 📹 Demo
-(Optional) Add GIF/short video showing slicer panel toggle.
+- Connect dataset (Superstore sample data)
